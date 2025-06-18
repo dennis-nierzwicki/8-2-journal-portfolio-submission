@@ -1,1 +1,3 @@
-# 8-2-journal-portfolio-submission
+*PLACEHOLDER*
+
+My assignment will be added here for Module 8
