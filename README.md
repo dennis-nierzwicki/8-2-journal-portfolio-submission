@@ -5,7 +5,7 @@ Our client, The Gaming Room, wanted to expand their current Draw It Or Lose It g
 - Brainstorming how the client-side functions of the software design would work.
 - Propose specific OS to handle server-side functions while taking into consideration memory management, performance, storage, RAM and security.
 ## What Do I Feel I Did Well With?
-We began with a high-level overview of how this could work and narrowed down the best course of action moving forward with an OS. I made specific recommendations based on my professional research. I added an alternative solution that may cut down on overhead costs. I provided sources to my recommendations for furthger reinforcement.
+We began with a high-level overview of how this could work and narrowed down the best course of action moving forward with an OS. I made specific recommendations based on my professional research. I added an alternative solution that may cut down on overhead costs. I provided sources to my recommendations for further reinforcement.
 ## What Part Of The Design Process Helped While Developing The Code?
 We studied several software design applications and understood we wanted to implement the Singleton Pattern. By examining different design patterns first and declaring which would be the most useful, it made implementing it much easier. 
 ## If I Could Pick One Part Of My Work To Revise, What Would It Be And How Would I Revise It?
